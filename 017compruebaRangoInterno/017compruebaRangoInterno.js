@@ -1,5 +1,5 @@
 
-let edadParaComprobar = prompt ("¿Que edad tienes?");
+let edadParaComprobar = + prompt ("¿Que edad tienes?");
 
 if (edadParaComprobar >= 18 && edadParaComprobar <=99) {
     alert("La edad esta entre 18 y 99");
